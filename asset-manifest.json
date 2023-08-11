@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PDF_VIEWER/static/css/main.8cf1fd9b.css",
+    "main.css": "/PDF_VIEWER/static/css/main.189b1a20.css",
     "main.js": "/PDF_VIEWER/static/js/main.a23c1708.js",
     "static/media/KIRUTHIKA_RESUME_UP.pdf": "/PDF_VIEWER/static/media/KIRUTHIKA_RESUME_UP.1b5c7ccf747eb2c5e27d.pdf",
     "index.html": "/PDF_VIEWER/index.html",
-    "main.8cf1fd9b.css.map": "/PDF_VIEWER/static/css/main.8cf1fd9b.css.map",
+    "main.189b1a20.css.map": "/PDF_VIEWER/static/css/main.189b1a20.css.map",
     "main.a23c1708.js.map": "/PDF_VIEWER/static/js/main.a23c1708.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cf1fd9b.css",
+    "static/css/main.189b1a20.css",
     "static/js/main.a23c1708.js"
   ]
 }
